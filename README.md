@@ -1,7 +1,7 @@
 # REDME
 # 💻 Estudante de Tecnologia | Construindo minha jornada na área tech 🚀
 
- --> # Olá, eu sou a Cris �
+ --> # Olá, eu sou a Cris a fada tech �
 
  Seja bem-vindo(a) ao meu perfil!
 
